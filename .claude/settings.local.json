@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python SalaComputo/sala_computo_class.py)",
-      "Bash(python SalaComputo/sala_computo_struct.py)"
-    ]
-  }
-}
